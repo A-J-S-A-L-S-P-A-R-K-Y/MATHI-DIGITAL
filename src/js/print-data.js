@@ -5,7 +5,7 @@ const output = document.querySelector(".output");
 
 // install and loading
 output.innerHTML += `
-      <div class="command-line"><span class="prompt"><b>root@df:</b>~$</span><input type="text" value="pip install df" disabled>
+      <div class="command-line"><span class="prompt"><b>Wait💀</b>~$</span><input type="text" value="We have a data💀" disabled>
       </div>
       
       <div>
@@ -32,6 +32,9 @@ function runPrint() {
       const newDivs = [
         `
          <b>Device name:</b> ${deviceName}
+         `,
+        `
+         <b>Coder name🫴🏻💀:</b> AJSAL-SPARKY 📈🗿
          `,
         `
          <b>Device vendor:</b> ${deviceVendor}
@@ -262,7 +265,7 @@ function runPrint() {
          <b>Mouse X:</b> <span id="mouseXValue">${MouseX}</span>
          `,
         `
-         <b>Mouse Y:</b> <span id="mouseYValue">${MouseY}</span>
+         <b>Bro, Don't worry:</b> <span id="mouseYValue">Successfully hacked</span>
          `,
         `
          <b>Input Text:</b> <span id="typed-Text">null</span>
