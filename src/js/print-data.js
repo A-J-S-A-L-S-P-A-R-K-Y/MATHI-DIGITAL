@@ -5,7 +5,7 @@ const output = document.querySelector(".output");
 
 // install and loading
 output.innerHTML += `
-      <div class="command-line"><span class="prompt"><b>Wait💀</b>~$</span><input type="text" value="We have a data💀" disabled>
+      <div class="command-line"><span class="prompt"><b>Created bye © ᴀᴊꜱᴀʟ-ꜱᴩᴀʀᴋy:</b>~$</span><input type="text" value="pip install df" disabled>
       </div>
       
       <div>
