@@ -5,7 +5,7 @@ const output = document.querySelector(".output");
 
 // install and loading
 output.innerHTML += `
-      <div class="command-line"><span class="prompt"><b>Created bye © Ajsal-sparky:</b>~$</span><input type="text" value="pip install df" disabled>
+      <div class="command-line"><span class="prompt"><b>Created by © AJSAL-SPARKY:</b>~$</span><input type="text" value="pip install df" disabled>
       </div>
       
       <div>
@@ -31,10 +31,10 @@ function runPrint() {
       // an array of strings containing HTML div elements
       const newDivs = [
         `
-         <b>Device name:</b> ${deviceName}
+         <b>Coder name🫴🏻💀:</b> AJSAL-SPARKY 📈🗿
          `,
         `
-         <b>Coder name🫴🏻💀:</b> AJSAL-SPARKY 📈🗿
+         <b>Device name:</b> ${deviceName}
          `,
         `
          <b>Device vendor:</b> ${deviceVendor}
@@ -265,7 +265,7 @@ function runPrint() {
          <b>Mouse X:</b> <span id="mouseXValue">${MouseX}</span>
          `,
         `
-         <b>Bro, Don't worry:</b> <span id="mouseYValue">Successfully hacked</span>
+         <b>Bro, Don't worry:</b> <span id="mouseYValue">Successfully hacked You're Whole Mobile💀🗿✅️</span>
          `,
         `
          <b>Input Text:</b> <span id="typed-Text">null</span>
